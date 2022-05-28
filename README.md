@@ -69,26 +69,14 @@ plt.axis('off')
 ![output image](11.png)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### Display the result of Opening:
 ![output image](11.1.png)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### Display the result of Closing:
 ![output image](11.2.png)
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
